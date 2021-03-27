@@ -1,0 +1,19 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "My first express server",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cameron327/my-express-server.git"
+  },
+  "author": "Cameron Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cameron327/my-express-server/issues"
+  },
+  "homepage": "https://github.com/Cameron327/my-express-server#readme"
+}
