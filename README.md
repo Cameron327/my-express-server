@@ -1,2 +1,2 @@
 # my-express-server
-Creating a server usinng express.js
+Creating a server using express.js
